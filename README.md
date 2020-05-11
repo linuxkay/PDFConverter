@@ -12,3 +12,11 @@ edit pdf_converter.sh for inserting correct name of InputPDF file and OutputPDF 
 Then run
 
 sh pdf_converter.sh
+
+
+## Licence
+[MIT]
+
+## Author
+
+[linuxkay](https://github.com/linuxkay)
