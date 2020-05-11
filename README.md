@@ -13,6 +13,9 @@ Then run
 
 sh pdf_converter.sh
 
+pdfimages -list outputPDF.PDF
+
+to check RGM or CMYK
 
 ## Licence
 [MIT]
